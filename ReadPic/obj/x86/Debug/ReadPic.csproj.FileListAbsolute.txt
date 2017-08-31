@@ -1,0 +1,10 @@
+E:\vsdev\ReadPic\ReadPic\bin\Debug\ReadPic.exe
+E:\vsdev\ReadPic\ReadPic\bin\Debug\ReadPic.pdb
+E:\vsdev\ReadPic\ReadPic\bin\Debug\AipSdk.dll
+E:\vsdev\ReadPic\ReadPic\bin\Debug\Newtonsoft.Json.dll
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.csprojResolveAssemblyReference.cache
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.Form1.resources
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.Properties.Resources.resources
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.csproj.GenerateResource.Cache
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.exe
+E:\vsdev\ReadPic\ReadPic\obj\x86\Debug\ReadPic.pdb
